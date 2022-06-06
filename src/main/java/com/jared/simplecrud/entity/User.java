@@ -17,6 +17,7 @@ import java.util.Date;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@TableName(value = "user")
 public class User implements Serializable {
     @JsonSerialize(using = ToStringSerializer.class)
     @TableId(type = IdType.AUTO)
@@ -25,9 +26,9 @@ public class User implements Serializable {
     private Integer age;
     private Integer sex;
     private String email;
-    @TableField(fill = FieldFill.INSERT)
+    @TableField(value = "create_time",fill = FieldFill.INSERT)
     private Date createTime;
-    @TableField(fill = FieldFill.INSERT_UPDATE)
+    @TableField(value = "update_time",fill = FieldFill.INSERT_UPDATE)
     private Date updateTime;
     @TableLogic
     @TableField(fill = FieldFill.INSERT)
