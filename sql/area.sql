@@ -1,0 +1,12 @@
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (1, '2548652365', '北京', '2022-05-25 12:59:24', '2022-07-12 17:15:55', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (2, '2458854265', '天津', '2022-05-25 12:59:24', '2022-07-13 09:57:26', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (3, '2477554526', '上海', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (4, '1568655521', '广州', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (5, '1425654235', '太原', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (6, '3633563366', '云南', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (7, '8874218244', '河北', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (8, '8678522872', '湖北', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (9, '8687242878', '香港', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (10, '8722482247', '运城', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (11, '4638825252', '浙江', '2022-05-25 12:59:24', '2022-05-25 12:59:24', '0');
+INSERT INTO `area` (`id`, `area_code`, `area_name`, `create_time`, `update_time`, `deleted`) VALUES (12, '573279378', '凡进入体内', '2022-07-12 17:17:32', '2022-07-12 17:17:32', '0');
